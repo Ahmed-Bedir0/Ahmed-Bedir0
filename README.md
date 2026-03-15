@@ -8,6 +8,8 @@ I am passionate about exploring the realms of coding, machine learning, and buil
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
 - 💻 Building Spring Boot applications with PostgreSQL
 
+Check out my [coding portfolio!](https://ahmedbedir-portfolio.netlify.app/)
+
 ## 🎓 About Me
 
 I’m also a mathematics tutor with over 3 years of experience, helping students understand difficult concepts and improve their problem-solving skills.
