@@ -5,10 +5,10 @@ I am passionate about exploring the realms of coding, machine learning, and buil
 
 ## 🚀 What I'm Up To
 
-- 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
+- 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org)
 - 💻 Building Spring Boot applications with PostgreSQL
 
-Check out my [coding portfolio!](https://ahmedbedir-portfolio.netlify.app/)
+Check out my [coding portfolio!](https://ahmedbedir-portfolio.netlify.app)
 
 ## 🎓 About Me
 
